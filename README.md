@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **malhotrazmr@gmail.com**
+- 📫 Reach me at: **malhotrazmr@gmail.com**
 
 <br>
 
