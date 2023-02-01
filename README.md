@@ -46,7 +46,8 @@
       width="40" height="40" /> </a> 
 
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/mr_malhotraz)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mr_malhotraz?theme=dark&font=Exo%202)
+    
 <br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
