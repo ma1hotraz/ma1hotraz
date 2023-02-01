@@ -47,7 +47,8 @@
 
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mr_malhotraz?theme=dark&font=Exo%202)
-    
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/mr_malhotraz)
+
 <br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
