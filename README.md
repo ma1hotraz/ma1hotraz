@@ -1,62 +1,21 @@
-<!-- Header Section -->
-<h1 align="center">Hey there, I'm Shashank Malhotra! 👋</h1>
-<h3 align="center">Passionate Web Developer | Open-Source Contributor | Tech Enthusiast</h3>
+# 💫 About Me:
+[3:19 PM] shashank.malhotra@netsmartz.net<br>I'm a skilled Frontend Developer with a focus on React.js, backed by a solid foundation in software engineering with a Bachelor's degree in Computer Science. Over the past 2 years, I've been deeply involved in developing dynamic front-end web applications, specializing in React.js and keeping up with the latest in web technologies. My expertise lies in crafting user-friendly interfaces, optimizing performance, ensuring cross-browser compatibility, and proficiently debugging and fixing errors. I have hands-on experience with JavaScript, Material UI, Bootstrap, Git, Redux, HTML5, and CSS, which allows me to create seamless and visually appealing web experiences. 
 
-<!-- Profile Views Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mr-malhotraz&label=Profile%20views&color=0e75b6&style=flat" alt="mr-malhotraz" />
-</p>
 
-<!-- Introduction -->
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding" width="400" height="300" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ma1hotraz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ma1hotraz) 
 
-<p align="center">
-  🌱 Currently diving deep into Web Development with a focus on MERN Stack.<br/>
-  💬 Ask me about JavaScript, React, Node.js, and anything tech-related!
-</p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mr-malhotraz&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mr-malhotraz&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-malhotraz&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrmalhotraz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/mr_malhotraz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/malhotrazmr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mr-malhotraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<!-- Skills Section -->
-<h3 align="center">Skills & Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" width="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" width="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" width="50" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="50" width="50" />
-  <!-- Add more skills/tools/icons as needed -->
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=mr-malhotraz&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- GitHub Stats & LeetCode Stats -->
-<h3 align="center">GitHub & LeetCode Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-malhotraz&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-malhotraz&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/?username=mr_malhotraz&theme=dark&font=Roboto" alt="LeetCode Profile" />
-</p>
-
-<!-- Footer Section -->
-<p align="center">
-  Let's build something amazing together! 🚀<br/>
-  Feel free to connect or explore my projects above 👆
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
