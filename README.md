@@ -46,9 +46,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ma1hotraz&theme=synthwave)](https://git.io/streak-stats)
 
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma1hotraz&layout=compact&theme=synthwave&hide_border=true" />
 
 </div>
 
