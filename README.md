@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shashank Malhotra! 👋</h1>
-<h3 align="center">🚀 Front-End Developer | ReactJS & VueJS Specialist</h3>
+<h3 align="center">🚀 Front-End Developer | ReactJS, NextJS & VueJS Specialist</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/malhotraz">
