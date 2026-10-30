@@ -288,7 +288,7 @@ I do not treat development as a list of screens or tickets. I try to understand 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ma1hotraz&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<img width="100%" src="https://ghchart.rshah.org/1D4ED8/ma1hotraz" alt="GitHub Contribution Graph" />
 
 </div>
 
