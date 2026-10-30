@@ -294,6 +294,16 @@ I do not treat development as a list of screens or tickets. I try to understand 
 
 ---
 
+## Open Source Contributions
+
+<div align="center">
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+</div>
+
+---
+
 ## Recognition
 
 ### Team Extra Miler Award — Q4 2024
